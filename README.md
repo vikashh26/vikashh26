@@ -1,6 +1,6 @@
 <body bgcolor="white">
   <h1 align="center">Hi 👋, I'm Vikash Sharma</h1>
-  <h2 align="center">A passionate programmer from India</h2>
+  <h2 align="center">A passionate Web Developer from India</h2>
   <p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsharma26&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsharma26" width="90" /> </p>
 
@@ -8,16 +8,16 @@
 
  <!-- <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>-->
 
-   - 👨‍💻 You can also check out my portfolio at <br/> **https://github.com/vikashsharma26/**
-
-   - 📫 How to reach me <br/> **VikashSharma21@navgurukul.org**
+   - 👨‍💻 You can also check out my portfolio at <br/> **https://github.com/vikashh26/**
+  
+   - 📫 How to reach me <br/> **https://www.linkedin.com/in/vikash-sharma-706ba3225**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
 <!--   <a href="https://twitter.com/vikashsharma_26" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/twitter.svg" alt="vikashsharma_26" height="30" width="40" /></a> -->
   <a href="https://instagram.com/vikashh96" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/instagram.svg" alt="vikashh96" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/vikashsharma21" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/hackerrank.svg" alt="vikashsharma21" height="30" width="40" /></a>
-  <a href="mailto:vikashsharrma21@navgurukul.org"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/logo-gmail.png" height="35" alt=""></a>
+  <a href="https://www.hackerrank.com/vikashsharma1" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/hackerrank.svg" alt="vikashsharma1" height="30" width="40" /></a>
+  <a href="mailto:rvikashsharma96@gmail.com"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/logo-gmail.png" height="35" alt=""></a>
     </p>
 <p><img align="right" src="https://github.com/vikashsharma26/toolsformyself/blob/main/giphy.gif" height="30%" width="30%" alt="vikashsharma26" /></p>  <!--<h3 align="left"><b>Languages and Tools</b>:</h3>
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>-->
